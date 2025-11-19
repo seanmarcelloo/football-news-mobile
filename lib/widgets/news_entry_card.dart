@@ -11,6 +11,7 @@ class NewsEntryCard extends StatelessWidget {
     required this.onTap,
   });
 
+  //c
   @override
   Widget build(BuildContext context) {
     return Container(
